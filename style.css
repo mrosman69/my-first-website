@@ -1,0 +1,44 @@
+h1{
+   text-align: center;
+}
+#name{
+   background-color: burlywood;
+   font-size: 25px;
+   height: 80px;
+   width: 50%;
+}
+img{
+   
+   width: 80%;
+}
+
+#h2{
+   text-align: center;
+}
+
+#bloog{
+   border: 10px solid red;
+   height: 50px;
+   width: 42%;
+   margin: 45px;
+   padding: 32px;
+   border-radius: 20px;
+}
+h3.sex{
+   text-align: center;
+   background-color: aqua;
+  
+   
+}
+#alu{
+   border: 3px solid tomato;
+   margin: 20px 25px;
+   border-radius: 12px;
+   height: 150px;
+   width: 80%;
+   padding: 25px;
+   display: inline-block;
+}
+alu,h3{
+   text-align: center;
+}
